@@ -1,1 +1,0 @@
-start cmd.exe /k "python C:\Users\Desbien\Desktop\SharpBot-master\TESTBOT\BotMaGeClan\TestBot1.py"
